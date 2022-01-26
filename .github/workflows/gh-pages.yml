@@ -53,5 +53,5 @@ jobs:
         env:
           HUGO_VERSION: 0.84.1
           TARGET_REPO: comma-lab/comma-lab.github.io
-          # TOKEN: ${{ secrets.TOKEN }}
+          TOKEN: ${{ secrets.DEPLOY_TOKEN }}
           # CNAME: www.jameswright.xyz
