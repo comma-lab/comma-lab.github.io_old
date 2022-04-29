@@ -4,7 +4,7 @@
 # Add more sections by duplicating this file and customizing to your requirements.
 
 widget: hero  # See https://wowchemy.com/docs/page-builder/
-headless: true  # This file represents a page section.
+headless: false  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: |
   COMMA Lab
@@ -19,6 +19,4 @@ design:
 
 <br>
 
-The **Communication Acoustics Lab** is a research group within the [Centre for Digital Music](http://c4dm.eecs.qmul.ac.uk/) at [Queen Mary University of London](https://www.qmul.ac.uk/), conducting cutting edge research into the ways we perceive sound and technologies for improving communication.
-
-[What is communication acoustics? Read more...](/communication-acoustics/)
+Communication acoustics is ... (text required)
