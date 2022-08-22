@@ -72,4 +72,4 @@ I am a Ph.D. student in Data-informed Audience-centric Media Engineering at [Que
 
 Previously, I was [Chevening Schoolar](https://www.chevening.org/) and co-founder of NGO Education Code, whose mission was to support and 
 increase the opportunities for Women in Tech.
-I also have some industrial experience as Data Scientist: I worked for [Drax](https://www.drax.com/) company in London and then later for [Quantix LLC](https://www.thequantix.com/)in Prishtina. 
+I also have some industrial experience as Data Scientist: I worked for [Drax](https://www.drax.com/) company in London and then later for [Quantix LLC](https://www.thequantix.com/) in Prishtina. 
