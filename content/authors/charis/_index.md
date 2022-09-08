@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Charalampos Saitis
+title: Acharalampos Saitis
 
 # Is this the primary user of the site?
 superuser: true
