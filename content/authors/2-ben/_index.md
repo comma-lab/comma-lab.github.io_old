@@ -24,9 +24,9 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence and Music
-    institution: Queen Mary University of London
-    year: 
+#  - course: PhD in Artificial Intelligence and Music
+#    institution: Queen Mary University of London
+#    year: 
   - course: MSc in Sound and Music Computing
     institution: Queen Mary University of London
     year: 2020
