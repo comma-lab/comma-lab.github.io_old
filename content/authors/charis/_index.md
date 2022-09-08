@@ -2,6 +2,9 @@
 # Display name
 title: Charalampos Saitis
 
+# Order
+weight: 11
+
 # Is this the primary user of the site?
 superuser: true
 
@@ -14,7 +17,7 @@ organizations:
   url: "https://qmul.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include ... [short bio]
+# bio: My research interests include ... [short bio]
 
 interests:
 - Timbre perception & semantics
