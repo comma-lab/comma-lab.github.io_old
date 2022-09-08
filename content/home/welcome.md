@@ -27,7 +27,7 @@ Our research themes include:
 * Modelling human values (and biases) with multimodal music data
 * Digital tools for education, outreach, and research 
   
-The COMMA Lab was founded in 2021 by Charalampos Saitis. Members and collaborators come from across C4DM and the [School of EECS](http://eecs.qmul.ac.uk/), including PhD students on the [Artificial Intelligence and Music](http://aim.qmul.ac.uk/) (AIM), [Data-informed Audience-centric Media Engineering](https://dame.qmul.ac.uk/) (DAME), and [China Scholarship Council](https://www.qmul.ac.uk/scholarships/items/china-scholarship-council-scholarships.html) (QMUL-CSC) programmes.
+COMMA was founded in 2021 by Charalampos Saitis. Members and collaborators come from across C4DM and the [School of EECS](http://eecs.qmul.ac.uk/), including PhD students on the [Artificial Intelligence & Music](http://aim.qmul.ac.uk/) (AIM), [Data-informed Audience-centric Media Engineering](https://dame.qmul.ac.uk/) (DAME), and [China Scholarship Council](https://www.qmul.ac.uk/scholarships/items/china-scholarship-council-scholarships.html) (QMUL-CSC) programmes.
 
-  The lab has received funding from the [British Academy](https://www.thebritishacademy.ac.uk/), [SSHRC (via ACTOR)](https://www.actorproject.org/), [UKRI (via AIM)](http://aim.qmul.ac.uk/), [QMUL (via DAME)](https://dame.qmul.ac.uk/), and [QMUL's Centre for Public Engagement](https://www.qmul.ac.uk/publicengagement/about-engagement/centre-for-public-engagement/).
+The lab has received funding from the [British Academy](https://www.thebritishacademy.ac.uk/), [SSHRC (via ACTOR)](https://www.actorproject.org/), and [QMUL's Centre for Public Engagement](https://www.qmul.ac.uk/publicengagement/about-engagement/centre-for-public-engagement/).
 </small>
