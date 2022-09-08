@@ -26,12 +26,12 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence and Music
-    institution: Queen Mary University of London
-    year: 
+#  - course: PhD in Artificial Intelligence and Music
+#    institution: Queen Mary University of London
+#    year: 
   - course: PhD Enrichment Scheme
     institution: The Alan Turing Institute
-    year:
+    year: 2023
   - course: MSc in Audiokommunikation und -technologie
     institution: Technische Universität Berlin
     year: 2019
