@@ -2,6 +2,9 @@
 # Display name
 title: Vjosa Preniqi
 
+# Order
+weight: 44
+
 # Is this the primary user of the site?
 superuser: false
 
@@ -68,3 +71,7 @@ highlight_name: false
 user_groups:
 - Members
 ---
+
+I am part of the Data-informed Audience-centric Media Engineering (DAME) CDT at Queen Mary University of London. My research is focused on finding associations between human moral values, personalities, and music-listening preferences by using ML/AI tools and leveraging the power of music streaming and digital media trails. Such insight can support building predictive models of complex high-level psychological constructs and multimodal personalized recommendation systems. My project is in collaboration with the BBC and the Data Science Lab at ISI Foundation.
+
+Previously, I was Chevening Scholar and co-founder of NGO Education Code, whose mission was to support and increase the opportunities for Women in Tech. I also have some industrial experience as Data Scientist: I worked for Drax company in London and then later for Quantix LLC in Prishtina.
