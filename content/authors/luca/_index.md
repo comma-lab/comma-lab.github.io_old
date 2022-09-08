@@ -2,6 +2,9 @@
 # Display name
 title: Luca Marinelli
 
+# Order
+weight: 33
+
 # Is this the primary user of the site?
 superuser: false
 
