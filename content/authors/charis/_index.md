@@ -6,7 +6,7 @@ title: Charalampos Saitis
 superuser: true
 
 # Role/position
-role: Lecturer in Digital Music Processing
+role: Lecturer (Assistant Professor) in Digital Music Processing
 
 # Organizations/Affiliations
 organizations:
@@ -17,23 +17,25 @@ organizations:
 bio: My research interests include ... [short bio]
 
 interests:
-- Perception, cognition & aesthetics of sound
-- Crossmodal & multisensory perception involving sound
-- Enabling digital audio with an understanding of how we listen
-- Modelling human values (& biases) with digital music data
-- Digital tools for education, outreach, & research
+- Timbre perception & semantics
+- Crossmodal correspondences 
+- Musical/sonic interaction
+- Musical acoustics & haptics
 
 education:
   courses:
   - course: PhD in Music Technology
     institution: McGill University
     year: 2014
-  # - course: MEng in Artificial Intelligence
-  #   institution: Massachusetts Institute of Technology
-  #   year: 2009
-  # - course: BSc in Artificial Intelligence
-  #   institution: Massachusetts Institute of Technology
-  #   year: 2008
+  - course: MA in Sonic Arts
+    institution: Queen's University Belfast
+    year: 2008
+  - course: PgDip in Music & Media Technologies
+    institution: Trinity College Dublin
+    year: 2007
+  - course: BSc in Mathematics
+    institution: National and Kapodistrian University of Athens
+    year: 2005
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -70,8 +72,10 @@ user_groups:
 - Researchers
 ---
 
-I am based at the [Centre for Digital Music](https://c4dm.eecs.qmul.ac.uk/) (C4DM), where I study communication acoustics with a focus on timbre perception and “metaphors we listen with”, and their application to research and innovation in digital music. This involves using empirical and computational methods to understand different modalities of experience, interaction, and control between the digital music “user” (listeners, performers, producers) and sound as a multimodal semiotic system. My previous research has focused on verbal-data-driven analysis of cognitive representations of timbre and more recently on [digital interactive cross-sensory games](https://www.seeingmusic.app/). Scholarly contributions include co-editing the scientific volumes [Timbre: Acoustics, Perception, & Cognition](https://link.springer.com/book/10.1007/978-3-030-14832-4) (2019), the first dedicated to a comprehensive and authoritative presentation of the state of the art in research on this foundational aspect of hearing, and [Musical Haptics](https://link.springer.com/book/10.1007%2F978-3-319-58316-7) (2018), an original interdisciplinary overview of the role of haptic feedback in musical practice and interaction. I am a founding member of the [International Conference on Timbre](https://timbre2020.mus.auth.gr/).
+I am Lecturer (Assistant Professor) in QMUL's [Centre for Digital Music](https://c4dm.eecs.qmul.ac.uk/) (C4DM), [Turing Fellow](https://www.turing.ac.uk/people/researchers/charalampos-saitis), and Deputy Director on the QMUL-BBC sponsored [CDT in Data-informed Audience-centric Media Engineering](https://dame.qmul.ac.uk/) (DAME).
+My research centres on the creative combination of empirical and computational methods to understand different modalities of experience, interaction, and control between the digital music “user” (listeners, performers, producers) and sound as a multimodal semiotic system. 
+My work has focused on semantic representations of timbre (also known as tone quality or sound colour) and more recently on [cross-sensory games](https://www.seeingmusic.app/). Scholarly contributions include co-editing [Timbre: Acoustics, Perception, & Cognition](https://link.springer.com/book/10.1007/978-3-030-14832-4) (Springer, 2019) and [Musical Haptics](https://link.springer.com/book/10.1007%2F978-3-319-58316-7) (Springer, 2018). I am a founding member of the [International Conference on Timbre](https://timbre2020.mus.auth.gr/) and non-partner member of the [Analysis, Creation & Teaching of Orchestration](https://www.actorproject.org/) (ACTOR) partnership.
 
-I am associate member of the [Music Cognition Lab](http://music-cognition.eecs.qmul.ac.uk/) and the [Cognitive Science Research Group](http://cogsci.eecs.qmul.ac.uk/), member of the [Institute of Applied Data Science](https://www.applieddatascience.qmul.ac.uk/) (IADS), deputy director of the [DAME CDT](https://dame.qmul.ac.uk/), and coordinate the C4DM Special Interest Group in Neural Audio Synthesis (SIGNAS). Outside QMUL, I am active in the [UK Acoustics Network](https://acoustics.ac.uk/) (UKAN), non-partner member of the international [Analysis, Creation and Teaching of ORchestration](https://www.actorproject.org/) (ACTOR) Partnership, and Turing Fellow and member of the [Humanities & Data Science interest group](https://www.turing.ac.uk/research/interest-groups/humanities-and-data-science) at the Alan Turing Institute.  I was awarded a PhD in music technology from McGill University in 2014. In 2015-16, I joined [Fondazione ISI](https://www.isi.it/en/home) as postdoc in the data science lab. Prior to joining QMUL, I was Humboldt Research Fellow at the [Audio Communication Group](Audio Communication Group) of TU Berlin in 2016-19.
+Previously, I was Humboldt Research Fellow at TU Berlin's [Audio Communication Group](https://www.ak.tu-berlin.de/menue/fachgebiet_audiokommunikation/), Research Associate at TU Dresden's [Chair of Acoustics & Haptics](https://tu-dresden.de/ing/elektrotechnik/ias/aha), and postdoc with the Data Science Lab of [Fondazione ISI](https://www.isi.it/en/home). 
 
-I am a member of the EECS Equalities Committee, EECS Race Equality Champion, and a member of the QMUL [Racial Equality Action Group](https://hr.qmul.ac.uk/equality/protected-characteristics/race/the-race-equality-action-group/).
+
