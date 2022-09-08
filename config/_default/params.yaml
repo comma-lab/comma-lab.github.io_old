@@ -20,7 +20,7 @@ twitter: ""
 
 # Contact (edit or remove options as required)
 
-email: comma@qmul.ac.uk
+email: c.saitis@qmul.ac.uk
 # phone: 888 888 88 88
 address:
   street: Queen Mary University of London, Mile End Road
@@ -32,7 +32,7 @@ address:
 coordinates:
   latitude: "51.5228342"
   longitude: "-0.0413653"
-# directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+directions: Citymapper and Google Maps work very well for the London public transport system (including for cycling).
 # office_hours:
 #   - "Monday 10:00 to 13:00"
 #   - "Wednesday 09:00 to 10:00"
