@@ -66,7 +66,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD Students
+# - PhD Students
 ---
 
 I am a PhD student in Artificial Intelligence and Music at [Queen Mary University of London](https://qmul.ac.uk/). My research bridges neural audio synthesis, the psychoacoustics of musical timbre, and applications of meta-learning to audio. I am very grateful to be funded by the UKRI Centre for Doctoral Training in [Artificial Intelligence and Music](https://aim.qmul.ac.uk/), and am a member of the [Centre for Digital Music](https://c4dm.eecs.qmul.ac.uk/).
