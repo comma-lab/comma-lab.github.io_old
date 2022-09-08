@@ -9,19 +9,19 @@ headless: true
 # Order that this section appears on the page.
 weight: 68
 
-title: Members
+title: 
 subtitle:
 
 content:
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
-  # - Researchers
+  - Members
   # - PhD Students
+  - Visitors
 
   # We can add more groups to the People page, e.g.:
   # - Administration
-  # - Visitors
   # - Alumni
 design:
   show_interests: false

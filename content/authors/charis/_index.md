@@ -69,7 +69,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-# - Researchers
+- Members
 ---
 
 I am Lecturer (Assistant Professor) in QMUL's [Centre for Digital Music](https://c4dm.eecs.qmul.ac.uk/) (C4DM), [Turing Fellow](https://www.turing.ac.uk/people/researchers/charalampos-saitis), and Deputy Director of the QMUL-BBC sponsored [CDT in Data-informed Audience-centric Media Engineering](https://dame.qmul.ac.uk/) (DAME).
