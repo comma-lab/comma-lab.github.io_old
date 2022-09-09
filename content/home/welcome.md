@@ -21,7 +21,6 @@ The **Communication Acoustics Lab (COMMA)** is part of the [Centre for Digital M
 <small>
 We work across disciplines of music, engineering, psychology, and cognitive science to study communication between humans and between humans and machines.
 
-<br>
 
 Our research themes include:
 
