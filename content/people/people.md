@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 68
 
-title: 
-subtitle: Team Comma
+title: Team Comma
+subtitle: 
 
 content:
   # Choose which groups/teams of users to display.
