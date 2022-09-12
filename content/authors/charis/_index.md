@@ -15,6 +15,8 @@ role: Lecturer (Assistant Professor) in Digital Music Processing
 organizations:
 - name: Queen Mary University of London
   url: "https://qmul.ac.uk/"
+- name: The Alan Turing Institute (Until Mar 2023)
+  url: "https://www.turing.ac.uk"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include ... [short bio]
