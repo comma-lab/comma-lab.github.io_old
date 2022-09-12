@@ -70,3 +70,7 @@ highlight_name: false
 user_groups:
 - Members
 ---
+
+I am a PhD student in Computer Science at Queen Mary University of London. My current research is controllable music generation using deep learning, with a focus on the use of generative models such as GANs to produce music with a target emotion. 
+
+I hold an MSc in Computer Science and Artificial Intelligence from the University of Nottingham. In my MSc dissertation project, I explored the potential of deep networks to extract the features of leaves and roots from sequential plant images and then predicted plant growth.
