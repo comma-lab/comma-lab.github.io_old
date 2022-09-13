@@ -12,9 +12,9 @@ font_size: M
 
 # SEO
 
-site_type: Organization
+site_type: ResearchOrganization
 local_business_type: ""
-org_name: "COMMA Lab"
+org_name: ""
 description: Communication Acoustics Lab at C4DM @ QMUL
 twitter: ""
 
@@ -75,7 +75,7 @@ reading_time: true
 section_pager: false
 sharing: true
 copyright_license:
-  enable: false
+  enable: true
   allow_derivatives: false
   share_alike: true
   allow_commercial: false
