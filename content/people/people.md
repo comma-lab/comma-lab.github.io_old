@@ -9,8 +9,8 @@ headless: false
 # Order that this section appears on the page.
 weight: 68
 
-title: People
-# subtitle: 
+title: |
+  People
 
 content:
   # Choose which groups/teams of users to display.
