@@ -3,9 +3,9 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Communication Acoustics Lab # Website name
+title: Communication Acoustics Lab | Queen Mary University of London # Website name
 baseurl: "https://comma-lab.github.io/" # Website URL
-copyright: "" # Footer text, e.g. '© {year} Me'
+copyright: "© {year} Communication Acoustics Lab, Queen Mary University of London. All rights reserved."
 
 ############################
 ## LANGUAGE
