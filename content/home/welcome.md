@@ -25,7 +25,7 @@ We work across disciplines of music, engineering, psychology, and cognitive scie
 
 Our research themes include:
 
-* Perception, cognition & aesthetics of sound
+* Perception, cognition, and aesthetics of sound
 * Cross-sensory perception involving sound
 * Enabling digital audio systems with an understanding of how we listen
 * Modelling human values (and biases) with multimodal music data
