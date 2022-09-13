@@ -16,11 +16,11 @@ design:
   css_class:
 ---
 
-The **Communication Acoustics Lab (COMMA)** is part of the [Centre for Digital Music](http://c4dm.eecs.qmul.ac.uk/) (C4DM) at [Queen Mary University of London](https://www.qmul.ac.uk/), conducting cutting edge research into the ways we perceive sound and technologies for improving communication.
+The **Communication Acoustics Lab (COMMA)** is part of the [Centre for Digital Music](http://c4dm.eecs.qmul.ac.uk/) (C4DM) at [Queen Mary University of London](https://www.qmul.ac.uk/), conducting cutting edge research into the ways people perceive sound and technologies for improving communication.
 
 <small>
 
-We work across disciplines of music, engineering, psychology, and cognitive science to study communication between humans and between humans and machines.
+We work across disciplines of music, engineering, psychology, and cognitive science to study audio communication between humans and between humans and machines.
   
 
 Our research themes include:
