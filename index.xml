@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Communication Acoustics Lab</title><link>https://comma-lab.github.io/</link><atom:link href="https://comma-lab.github.io/index.xml" rel="self" type="application/rss+xml"/><description>Communication Acoustics Lab</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Communication Acoustics Lab, Queen Mary University of London. All rights reserved.</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate><image><url>https://comma-lab.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url><title>Communication Acoustics Lab</title><link>https://comma-lab.github.io/</link></image><item><title>Communication Acoustics</title><link>https://comma-lab.github.io/communication-acoustics/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://comma-lab.github.io/communication-acoustics/</guid><description>&lt;br>
 &lt;p>Communication acoustics is &amp;hellip; (text required)&lt;/p></description></item><item><title>Join us</title><link>https://comma-lab.github.io/join-us/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://comma-lab.github.io/join-us/</guid><description>&lt;p>We are always keen for motivated people to come and work with us.
-COMMA lab includes researchers from many different disciplines, from engineering and mathematics to music and acoustics.
-We are part of the world-leading &lt;a href="http://c4dm.eecs.qmul.ac.uk/" target="_blank" rel="noopener">Centre for Digital Music&lt;/a> and enjoy collaborations with departments across &lt;a href="https://www.qmul.ac.uk/" target="_blank" rel="noopener">QMUL&lt;/a>.
-We are located in Mile End in east London, with excellent transport links and an active campus.&lt;/p>
-&lt;p>If you&amp;rsquo;re interested in joining us, please reach out with a CV and short proposal. Alternatively, apply directly for one of the positions listed below.&lt;/p>
-&lt;h2 id="postdoc">Postdoc&lt;/h2>
+COMMA includes researchers from many different disciplines, from engineering and mathematics to music and acoustics.
+We are part of the world-leading &lt;a href="http://c4dm.eecs.qmul.ac.uk/" target="_blank" rel="noopener">Centre for Digital Music&lt;/a> and enjoy collaborations with departments across QMUL, including &lt;a href="http://cogsci.eecs.qmul.ac.uk/" target="_blank" rel="noopener">Cognitive Science&lt;/a>, &lt;a href="http://music-cognition.eecs.qmul.ac.uk/" target="_blank" rel="noopener">Music Cognition&lt;/a>, &lt;a href="https://www.robotics.qmul.ac.uk/" target="_blank" rel="noopener">Advanced Robotics&lt;/a>, and &lt;a href="https://www.qmul.ac.uk/maths/research/statistics-and-data-science/" target="_blank" rel="noopener">Maths&lt;/a>.
+[We are located]({{ ref . &amp;ldquo;contact&amp;rdquo; }}) in Mile End in East London, with excellent transport links and an active campus.&lt;/p>
+&lt;p>If you are interested in joining us, please reach out with a CV and short proposal. Projects should address psychologically or technologically relevant questions in communication acoustics, digital music, or &lt;a href="https://www.qmul.ac.uk/research/faculties-and-research-centres/science-and-engineering/social-interaction-health-and-wellbeing/" target="_blank" rel="noopener">social interaction&lt;/a>.&lt;/p>
+&lt;h2 id="postdocs">Postdocs&lt;/h2>
 &lt;small>
 Details on postdoc positions here
 &lt;/small>
-&lt;h2 id="phd">PhD&lt;/h2>
+&lt;h2 id="phd-research">PhD research&lt;/h2>
 &lt;small>
 Details on available PhD funding here
 &lt;ul>
@@ -16,19 +16,18 @@ Details on available PhD funding here
 &lt;li>etc
 &lt;/small>&lt;/li>
 &lt;/ul>
-&lt;h1 id="masters-students">Masters Students&lt;/h1>
+&lt;h2 id="masters-students">Masters students&lt;/h2>
 &lt;small>
-There are a number of masters level programmes at QMUL relevant to our lab's work.
-These include:
+There are a number of masters level programmes at the School of EECS relevant to our lab's work. If you are interested in conducting your masters research under the supervision of a COMMA member, please reach out by email.
 &lt;ul>
-&lt;li>Sound and Music Computing MSc&lt;/li>
-&lt;li>Artificial Intelligence MSc&lt;/li>
-&lt;li>Artificial Intelligence with Machine Learning MSc&lt;/li>
-&lt;li>Computer Science MSc&lt;/li>
-&lt;li>Computer Science by Research MSc&lt;/li>
+&lt;li>&lt;a href="https://www.qmul.ac.uk/postgraduate/taught/coursefinder/courses/sound-and-music-computing-msc/" target="_blank" rel="noopener">Sound and Music Computing MSc&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.qmul.ac.uk/postgraduate/taught/coursefinder/courses/computer-science-msc/" target="_blank" rel="noopener">Computer Science MSc&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.qmul.ac.uk/postgraduate/taught/coursefinder/courses/computer-science-by-research-msc/" target="_blank" rel="noopener">Computer Science by Research MSc&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.qmul.ac.uk/postgraduate/taught/coursefinder/courses/computer-games-msc/" target="_blank" rel="noopener">Computer Games MSc&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.qmul.ac.uk/postgraduate/taught/coursefinder/courses/artificial-intelligence-msc/" target="_blank" rel="noopener">Artificial Intelligence MSc&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.qmul.ac.uk/postgraduate/taught/coursefinder/courses/big-data-science-msc/" target="_blank" rel="noopener">Big Data Science MSc&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;p>If you are interested in conducting your masters research under the supervision of a COMMA member, please reach out by email.
-&lt;/small>&lt;/p></description></item><item><title>Example Event</title><link>https://comma-lab.github.io/event/example/</link><pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate><guid>https://comma-lab.github.io/event/example/</guid><description>&lt;p>Slides can be added in a few ways:&lt;/p>
+&lt;/small></description></item><item><title>Example Event</title><link>https://comma-lab.github.io/event/example/</link><pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate><guid>https://comma-lab.github.io/event/example/</guid><description>&lt;p>Slides can be added in a few ways:&lt;/p>
 &lt;ul>
 &lt;li>&lt;strong>Create&lt;/strong> slides using Wowchemy&amp;rsquo;s &lt;a href="https://wowchemy.com/docs/managing-content/#create-slides" target="_blank" rel="noopener">&lt;em>Slides&lt;/em>&lt;/a> feature and link using &lt;code>slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
 &lt;li>&lt;strong>Upload&lt;/strong> an existing slide deck to &lt;code>static/&lt;/code> and link using &lt;code>url_slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
@@ -40,7 +39,7 @@ These include:
 Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 &lt;/div>
 &lt;/div>
-&lt;p>Supplementary notes can be added here, including &lt;a href="https://sourcethemes.com/academic/docs/writing-markdown-latex/" target="_blank" rel="noopener">code and math&lt;/a>.&lt;/p></description></item><item><title/><link>https://comma-lab.github.io/admin/config.yml</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://comma-lab.github.io/admin/config.yml</guid><description/></item><item><title/><link>https://comma-lab.github.io/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://comma-lab.github.io/contact/</guid><description/></item><item><title>Modelling Moral Traits with Music Listening Preferences and Demographics</title><link>https://comma-lab.github.io/publication/conference-paper/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://comma-lab.github.io/publication/conference-paper/</guid><description>&lt;h1 id="div-classalert-alert-note">&lt;div class="alert alert-note">&lt;/h1>
+&lt;p>Supplementary notes can be added here, including &lt;a href="https://sourcethemes.com/academic/docs/writing-markdown-latex/" target="_blank" rel="noopener">code and math&lt;/a>.&lt;/p></description></item><item><title/><link>https://comma-lab.github.io/admin/config.yml</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://comma-lab.github.io/admin/config.yml</guid><description/></item><item><title>Contact</title><link>https://comma-lab.github.io/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://comma-lab.github.io/contact/</guid><description/></item><item><title>Modelling Moral Traits with Music Listening Preferences and Demographics</title><link>https://comma-lab.github.io/publication/conference-paper/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://comma-lab.github.io/publication/conference-paper/</guid><description>&lt;h1 id="div-classalert-alert-note">&lt;div class="alert alert-note">&lt;/h1>
 &lt;div>
 &lt;h1 id="click-the-cite-button-above-to-demo-the-feature-to-enable-visitors-to-import-publication-metadata-into-their-reference-management-software">Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/h1>
 &lt;/div>
