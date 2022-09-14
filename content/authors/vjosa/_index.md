@@ -9,7 +9,7 @@ weight: 44
 superuser: false
 
 # Role/position
-role: PhD Student in Electronic Engineering
+role: PhD Student in Data-informed Audience-centric Media Engineering
 
 # Organizations/Affiliations
 organizations:
@@ -17,25 +17,25 @@ organizations:
   url: "https://qmul.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
-# bio: My research is in meta-learning for modelling timbre synthesis and perception
+bio: My research is in predicting human moral values and personalities based on music listening behaviours and preferemces.
 
 interests:
-- Music psychology & sociology
-- Music information retrieval
-- Lyrics information processing
-- Music emotion recognition
+- Data Science
+- Machine Learning and AI 
+- Psychometrics
+- Computational Social Science 
 
 education:
   courses:
- # - course: PhD in Artificial Intelligence and Music
- #   institution: Queen Mary University of London
- #   year: 
-  - course: MSc in Big Data Science and Technology
+  - course: PhD inData-informed Audience-centric Media Engineering
+    institution: Queen Mary University of London
+    year: 2021 - in progress
+  - course: MSc in Big Data Science and Techonology
     institution: University of Bradford
-    year: 2019
-  - course: BSc in Computer Science
+    year: 2018 - 2019
+  - course: Computer Science
     institution: University of Prishtina
-    year: 2014
+    year: 2011 - 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -48,9 +48,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/vjosa_preniqi
-# - icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.com/citations?hl=en&user=Zq2uWSkAAAAJ
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?view_op=list_works&hl=en&user=CLZ3LL4AAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/vjosapreniqi
@@ -71,7 +71,8 @@ highlight_name: false
 user_groups:
 - Members
 ---
+I am a Ph.D. student in Data-informed Audience-centric Media Engineering at [Queen Mary University of London](https://qmul.ac.uk/). For this research, I am focused on finding associations between human moral values, personalities, and music-listening behaviors and preferences by using ML/AI tools and leveraging the power of music streaming and digital media trails. Such insight can support building predictive models of complex high-level psychological constructs like moral and human values and multimodal personalized recommendation systems. The data-informed models developed in this project will help to unlock the potential of uniquely tailored user experiences, recommendation systems, and communication strategies in digital media. This project is in collaboration with the BBC, and the Data Science Lab at ISI Foundation.
 
-I am part of the Data-informed Audience-centric Media Engineering (DAME) CDT at Queen Mary University of London. My research is focused on finding associations between human moral values, personalities, and music-listening preferences by using ML/AI tools and leveraging the power of music streaming and digital media trails. Such insight can support building predictive models of complex high-level psychological constructs and multimodal personalized recommendation systems. My project is in collaboration with the BBC and the Data Science Lab at ISI Foundation.
-
-Previously, I was Chevening Scholar and co-founder of NGO Education Code, whose mission was to support and increase the opportunities for Women in Tech. I also have some industrial experience as Data Scientist: I worked for Drax company in London and then later for Quantix LLC in Prishtina.
+Previously, I was [Chevening Scholar](https://www.chevening.org/) and co-founder of NGO Education Code, whose mission was to support and 
+increase the opportunities for Women in Tech.
+I also have some industrial experience as Data Scientist: I worked for [Drax](https://www.drax.com/) company in London and then later for [Quantix LLC](https://www.thequantix.com/) in Prishtina. 
